@@ -2,4 +2,4 @@
 - I’m interested in ... game, voice acting, series.
 - I’m currently learning ... programmation, my level is print('Hello World').
 - I’m looking to collaborate on ... game dev or voice acting.
-- How to reach me ... you can't.
+- How to reach me ... you can't cause I'm dumb.
